@@ -1,0 +1,15 @@
+
+h1
+{
+	color: aquamarine;
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnTGV_btvm0GVxz4MS1oa4Qw54gGxs87YxUP0Si2u6k8GLxLgphTRafuBq86hSByM9PE&usqp=CAU");
+	background-size: cover;
+}
+
+#canvas{
+background-color: aquamarine;
+border: 3px ridge blue;
+}
